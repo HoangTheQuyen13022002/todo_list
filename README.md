@@ -1,16 +1,10 @@
-# todo_list
+Todo List App - Flutter with Provider
 
-A new Flutter project.
+Introduction
+    This is a simple Todo List application built with Flutter and using the Provider package for state management. The app allows users to add, delete, and manage their list of tasks.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Features
+    Add tasks: Users can add new tasks to the list.
+    Delete tasks: Users can delete tasks once they are completed.
+    Update task status: Users can mark tasks as completed or pending.
+    State management with Provider: The app uses the Provider package to efficiently manage the app's state.
